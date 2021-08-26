@@ -8,29 +8,23 @@ namespace EjercicioNro08
         {
             public string nombre;
             public float valorHora;
-            public float anosAntiguedad;
-            public float horasPorMes;
-            public float totalHotas,
+            public float antiguedad,
+                horasPorMes, totalHoras,
                 totalAntiguedad, totalBruto,
                 totalDescuento, totalNeto;
-         }
+        }
         static void Main(string[] args)
         {
-            // Variables
-            int len = 100;
-            Empleado[] empleados = new Empleado[len];
-                
-            bool respuesta;
-            int contador = 1;
-            char ingreso;
-            // Mensajes
             Console.Title = "Ejercicio 08";
             Console.WriteLine("Cálculo de sueldo\n" +
                               "-----------------");
+            // Variables
+            int len = 100;
+            Empleado[] empleados = new Empleado[len];   
+            int contador = 0;
+            char ingreso;
 
             // Ingreso de datos
-            do
-            {
                 for (int i = 0; i < len; i++)
                 {
                     Console.Write("Ingrese el valor de la hora del empleado: ");
@@ -38,49 +32,45 @@ namespace EjercicioNro08
                     Console.Write("Ingrese nombre del empleado: ");
                     empleados[i].nombre = Console.ReadLine();
                     Console.Write("Ingrese antiguedad: ");
-                    empleados[i].anosAntiguedad = float.Parse(Console.ReadLine());
+                    empleados[i].antiguedad = float.Parse(Console.ReadLine());
                     Console.Write("Ingrese la cantidad de horas trabajadas en el mes: ");
                     empleados[i].horasPorMes = float.Parse(Console.ReadLine());
 
-                    empleados[i].totalHotas = empleados[i].valorHora * empleados[i].horasPorMes;
-                    empleados[i].totalAntiguedad = empleados[i].anosAntiguedad * 30;
-                    empleados[i].totalBruto = empleados[i].totalHotas + empleados[i].totalAntiguedad;
+                    empleados[i].totalHoras = empleados[i].valorHora * empleados[i].horasPorMes;
+                    empleados[i].totalAntiguedad = empleados[i].antiguedad * 150;
+                    empleados[i].totalBruto = empleados[i].totalHoras + empleados[i].totalAntiguedad;
                     empleados[i].totalDescuento = (float)(empleados[i].totalBruto * 1.13) - empleados[i].totalBruto;
                     empleados[i].totalNeto = empleados[i].totalBruto - empleados[i].totalDescuento;
+                    contador++;
 
                     Console.Write("Desea ingresar otro empleado?: ");
                     ingreso = char.Parse(Console.ReadLine());
 
-                    if (ingreso == 's')
+                    if (ingreso != 's')
                     {
-
-                        respuesta = true;
-                        Console.Write("{0}", respuesta);
+                        break;
                     }
-                    else
-                    {
-
-                        respuesta = false;
-                        Console.Write("{0}", respuesta);
-                    }
+                    
                 }
-                } while (respuesta == true) ;
-            
-            
 
             //Mostrar en pantalla
 
             Console.Clear();
-            for (int i = 0; i < len; i++)
+            for (int i = 0; i < contador; i++)
             {
                 Console.WriteLine("   Recibo de sueldo:" + "\n" +
                             "   -----------------" + "\n" +
-                            "             Nombre: " + empleados[i].nombre + "\n" +
-                            "         Antiguedad: " + empleados[i].anosAntiguedad + "\n" +
-                            "     Valor por hora: " + empleados[i].valorHora + "\n" +
-                            " Total sueldo bruto: " + empleados[i].totalBruto + "\n" +
-                            "         Descuentos: " + empleados[i].totalDescuento + "\n" +
-                            "Valor neto a cobrar: " + empleados[i].totalNeto + "\n");
+                            "             Nombre: {0}" + "\n" +
+                            "         Antiguedad: {1}" + "\n" +
+                            "     Valor por hora: {2}" +   "\n" +
+                            " Total sueldo bruto: {3}" +   "\n" +
+                            "         Descuentos: {4}" +   "\n" +
+                            "Valor neto a cobrar: {5}", empleados[i].nombre,
+                                                        empleados[i].antiguedad,
+                                                        empleados[i].valorHora,
+                                                        empleados[i].totalBruto,
+                                                        empleados[i].totalDescuento,
+                                                        empleados[i].totalNeto + "\n");
 
             }
                 
