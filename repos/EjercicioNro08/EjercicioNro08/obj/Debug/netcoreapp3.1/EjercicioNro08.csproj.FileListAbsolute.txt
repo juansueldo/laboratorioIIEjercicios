@@ -12,3 +12,17 @@ C:\Users\operador\source\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreap
 C:\Users\operador\source\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.pdb
 C:\Users\operador\source\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.genruntimeconfig.cache
 C:\Users\operador\source\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\bin\Debug\netcoreapp3.1\EjercicioNro08.exe
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\bin\Debug\netcoreapp3.1\EjercicioNro08.deps.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\bin\Debug\netcoreapp3.1\EjercicioNro08.runtimeconfig.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\bin\Debug\netcoreapp3.1\EjercicioNro08.runtimeconfig.dev.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\bin\Debug\netcoreapp3.1\EjercicioNro08.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\bin\Debug\netcoreapp3.1\EjercicioNro08.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.AssemblyInfo.cs
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro08\EjercicioNro08\obj\Debug\netcoreapp3.1\EjercicioNro08.genruntimeconfig.cache

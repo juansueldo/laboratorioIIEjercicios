@@ -1,0 +1,16 @@
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.AssemblyInfo.cs
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\EjercicioNro1.exe
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\EjercicioNro1.deps.json
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\EjercicioNro1.runtimeconfig.json
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\EjercicioNro1.runtimeconfig.dev.json
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\EjercicioNro1.dll
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\ref\EjercicioNro1.dll
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\bin\Debug\net5.0\EjercicioNro1.pdb
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.dll
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\ref\EjercicioNro1.dll
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.pdb
+C:\Users\Juan\source\repos\EjercicioNro1\EjercicioNro1\obj\Debug\net5.0\EjercicioNro1.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\operador\\source\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj": {}
+    "C:\\Users\\Juan\\Documents\\laboratorioIIEjercicios\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\operador\\source\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj": {
+    "C:\\Users\\Juan\\Documents\\laboratorioIIEjercicios\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\operador\\source\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj",
+        "projectUniqueName": "C:\\Users\\Juan\\Documents\\laboratorioIIEjercicios\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj",
         "projectName": "EjercicioNro08",
-        "projectPath": "C:\\Users\\operador\\source\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj",
-        "packagesPath": "C:\\Users\\operador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\operador\\source\\repos\\EjercicioNro08\\EjercicioNro08\\obj\\",
+        "projectPath": "C:\\Users\\Juan\\Documents\\laboratorioIIEjercicios\\repos\\EjercicioNro08\\EjercicioNro08\\EjercicioNro08.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\Documents\\laboratorioIIEjercicios\\repos\\EjercicioNro08\\EjercicioNro08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\operador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

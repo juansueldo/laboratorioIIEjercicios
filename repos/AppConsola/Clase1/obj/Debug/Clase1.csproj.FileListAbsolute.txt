@@ -1,0 +1,7 @@
+C:\Users\Juan\source\repos\AppConsola\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\Juan\source\repos\AppConsola\Clase1\bin\Debug\Clase1.exe
+C:\Users\Juan\source\repos\AppConsola\Clase1\bin\Debug\Clase1.pdb
+C:\Users\Juan\source\repos\AppConsola\Clase1\obj\Debug\Clase1.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\AppConsola\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\AppConsola\Clase1\obj\Debug\Clase1.exe
+C:\Users\Juan\source\repos\AppConsola\Clase1\obj\Debug\Clase1.pdb

@@ -11,3 +11,17 @@ C:\Users\operador\source\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreap
 C:\Users\operador\source\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.dll
 C:\Users\operador\source\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.pdb
 C:\Users\operador\source\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.genruntimeconfig.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\bin\Debug\netcoreapp3.1\EjercicioNro07.exe
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\bin\Debug\netcoreapp3.1\EjercicioNro07.deps.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\bin\Debug\netcoreapp3.1\EjercicioNro07.runtimeconfig.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\bin\Debug\netcoreapp3.1\EjercicioNro07.runtimeconfig.dev.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\bin\Debug\netcoreapp3.1\EjercicioNro07.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\bin\Debug\netcoreapp3.1\EjercicioNro07.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.AssemblyInfo.cs
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro07\EjercicioNro07\obj\Debug\netcoreapp3.1\EjercicioNro07.genruntimeconfig.cache

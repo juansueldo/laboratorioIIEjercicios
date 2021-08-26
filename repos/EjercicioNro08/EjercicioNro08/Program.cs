@@ -43,7 +43,7 @@ namespace EjercicioNro08
                     empleados[i].totalNeto = empleados[i].totalBruto - empleados[i].totalDescuento;
                     contador++;
 
-                    Console.Write("Desea ingresar otro empleado?: ");
+                    Console.Write("Presion [s] para ingresar otro empleado: ");
                     ingreso = char.Parse(Console.ReadLine());
 
                     if (ingreso != 's')
@@ -60,12 +60,13 @@ namespace EjercicioNro08
             {
                 Console.WriteLine("   Recibo de sueldo:" + "\n" +
                             "   -----------------" + "\n" +
-                            "             Nombre: {0}" + "\n" +
-                            "         Antiguedad: {1}" + "\n" +
-                            "     Valor por hora: {2}" +   "\n" +
-                            " Total sueldo bruto: {3}" +   "\n" +
-                            "         Descuentos: {4}" +   "\n" +
-                            "Valor neto a cobrar: {5}", empleados[i].nombre,
+                            "   Nombre: {0}" + "\n" +
+                            "   Antiguedad: {1} años" + "\n" +
+                            "   Valor por hora: ${2,0:#,###.00}" +   "\n" +
+                            "   Total sueldo bruto: ${3,0:#,###.00}" +   "\n" +
+                            "   Descuentos a aplicar: ${4,0:#,###.00}" +   "\n" +
+                            "   -----------------" + "\n" +
+                            "   Total sueldo neto: ${5,0:#,###.00}", empleados[i].nombre,
                                                         empleados[i].antiguedad,
                                                         empleados[i].valorHora,
                                                         empleados[i].totalBruto,
