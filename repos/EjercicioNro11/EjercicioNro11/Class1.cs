@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioNro11
 {
-    class Class1
+    public static class Class1
     {
         static public bool Validar(int valor, int min, int max)
         {

@@ -1,0 +1,16 @@
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.AssemblyInfo.cs
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\EjercicioNro11.exe
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\EjercicioNro11.deps.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\EjercicioNro11.runtimeconfig.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\EjercicioNro11.runtimeconfig.dev.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\EjercicioNro11.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\ref\EjercicioNro11.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\bin\Debug\net5.0\EjercicioNro11.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\ref\EjercicioNro11.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro11\EjercicioNro11\obj\Debug\net5.0\EjercicioNro11.genruntimeconfig.cache

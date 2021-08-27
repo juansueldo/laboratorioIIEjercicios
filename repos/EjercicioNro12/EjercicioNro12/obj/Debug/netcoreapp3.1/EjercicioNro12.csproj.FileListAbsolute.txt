@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\bin\Debug\netcoreapp3.1\EjercicioNro12.exe
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\bin\Debug\netcoreapp3.1\EjercicioNro12.deps.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\bin\Debug\netcoreapp3.1\EjercicioNro12.runtimeconfig.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\bin\Debug\netcoreapp3.1\EjercicioNro12.runtimeconfig.dev.json
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\bin\Debug\netcoreapp3.1\EjercicioNro12.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\bin\Debug\netcoreapp3.1\EjercicioNro12.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.AssemblyInfo.cs
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.dll
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.pdb
+C:\Users\Juan\Documents\laboratorioIIEjercicios\repos\EjercicioNro12\EjercicioNro12\obj\Debug\netcoreapp3.1\EjercicioNro12.genruntimeconfig.cache
