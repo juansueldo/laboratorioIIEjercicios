@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioNro20/1.0.0": {
+        "dependencies": {
+          "Billetes": "1.0.0"
+        },
+        "runtime": {
+          "EjercicioNro20.dll": {}
+        }
+      },
+      "Billetes/1.0.0": {
+        "runtime": {
+          "Billetes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioNro20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Billetes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

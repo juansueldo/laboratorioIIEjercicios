@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPNro1", "TPNro1\TPNro1.csproj", "{1AED62A5-C6B3-4B02-98C7-FEE08C9DB2E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{B4F33741-EB90-4F60-8A4D-86629E0E2945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "MiCalculadora\MiCalculadora.csproj", "{470AC1B7-5CB0-48FC-AB71-BF743E94D780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AED62A5-C6B3-4B02-98C7-FEE08C9DB2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AED62A5-C6B3-4B02-98C7-FEE08C9DB2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AED62A5-C6B3-4B02-98C7-FEE08C9DB2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AED62A5-C6B3-4B02-98C7-FEE08C9DB2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F33741-EB90-4F60-8A4D-86629E0E2945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F33741-EB90-4F60-8A4D-86629E0E2945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F33741-EB90-4F60-8A4D-86629E0E2945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F33741-EB90-4F60-8A4D-86629E0E2945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470AC1B7-5CB0-48FC-AB71-BF743E94D780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470AC1B7-5CB0-48FC-AB71-BF743E94D780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470AC1B7-5CB0-48FC-AB71-BF743E94D780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470AC1B7-5CB0-48FC-AB71-BF743E94D780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D1EC58-FB6A-4C70-9D05-30811F88BF18}
+	EndGlobalSection
+EndGlobal
